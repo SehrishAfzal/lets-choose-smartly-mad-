@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyLab</string>
+    <string name="request_an_image">Request an Image</string>
+</resources>
